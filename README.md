@@ -241,4 +241,4 @@ This repository serves as the official landing page for Machete. The software is
 **Get the most recent version of Machete today!**
 
 ---
-**Last updated:** 2026-09-27 08:44:21 UTC
+**Last updated:** 2026-09-27 14:25:38 UTC
